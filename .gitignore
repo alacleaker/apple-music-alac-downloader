@@ -1,0 +1,7 @@
+*
+!.gitignore
+!agent.js
+!go.mod
+!go.sum
+!main.go
+!README.md
